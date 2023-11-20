@@ -1,6 +1,6 @@
 Energieleverancier,Handling fee stroom per kWh,Vaste leveringskosten stroom,Handling fee gas per m³,Vaste leveringskosten gas,Opmerkingen
 Vrijopnaam,0.02,6.5,0.08,6.5,Geen eigen opwek - participatie in zonnepark wel mogelijk
-Zonneplan,0.02,6.25,0.08,6.25,Met live inzicht in je verbruik met een energiemeter
+Zonneplan,0.02,6.25,0.08,6.25,Incusief live inzicht in je verbruik met een energiemeter
 All In Power,0.0303,6.05,0.0908,6.05,
 Budget Energie,0.021,5.99,0.075,5.99,
 EasyEnergy,0.021,5.99,0.075,5.99,
@@ -10,7 +10,7 @@ Groenestroom Lokaal,0.0212,5,0.0828,5,
 Mijndomein Energie,0.0212,7.48,0.0828,7.48,
 ZonderGas,0.0212,6.48,0.0828,6.48,
 Tibber,0.0218,3.99,Geen gaslevering,Geen gaslevering,
-Vandebron,0.0219,6.25,0.1066,6.25,
+Vandebron,0.0219,6.25,0.1066,6.25,Zonnepaneeleigenaren betalen toeslag
 NextEnergy,0.0221,5,0.1284,5,
 Eneco,0.0223,7,0.1279,7,
 Energie VanOns,0.0223,7,0.1279,7,
