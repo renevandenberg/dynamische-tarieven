@@ -1,6 +1,6 @@
 Energieleverancier,Handling fee stroom per kWh,Vaste leveringskosten stroom,Handling fee gas per m³,Vaste leveringskosten gas,Opmerkingen
-Vrijopnaam,0.02,6.5,0.08,6.5,Geen eigen opwek - participatie in zonnepark wel mogelijk
-Zonneplan,0.02,6.25,0.08,6.25,Incusief live inzicht in je verbruik met een energiemeter
+Vrijopnaam,0.0200,6.5,0.0800,6.5,Geen eigen opwek - participatie in zonnepark wel mogelijk
+Zonneplan,0.0200,6.25,0.0800,6.25,Incusief live inzicht in je verbruik met een energiemeter
 All In Power,0.0303,6.05,0.0908,6.05,
 Budget Energie,0.02099,5.99,0.07501,5.99,
 EasyEnergy,0.02178,5.00,0.1089,5.00,
